@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hackernews Clone
+
+This is a clone of hackernews that I built following a tutorial as a way to further familiarize myself with GraphQL, Apollo Client, and React.
 
 ## Available Scripts
 
