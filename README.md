@@ -1,5 +1,7 @@
 # Hackernews Clone
 
+![Not Maintained](https://img.shields.io/badge/status-not%20maintained-red)
+
 This is a clone of hackernews that I built following a tutorial as a way to further familiarize myself with GraphQL, Apollo Client, and React.
 
 ## Available Scripts
